@@ -1,4 +1,3 @@
 # maxconti_SWP
 
-
-HALLO
+Ich verstehe den objektorientierten bruchaddierer nochh nicht ganz.
