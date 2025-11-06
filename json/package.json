@@ -1,0 +1,25 @@
+{
+  "name": "maxconti_swp",
+  "version": "1.0.0",
+  "description": "Ich verstehe den objektorientierten bruchaddierer nochh nicht ganz.",
+  "main": "6,10,2025aufgabe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaximilianConti/maxconti_SWP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaximilianConti/maxconti_SWP/issues"
+  },
+  "homepage": "https://github.com/MaximilianConti/maxconti_SWP#readme",
+  "devDependencies": {
+    "@types/node": "^24.7.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
